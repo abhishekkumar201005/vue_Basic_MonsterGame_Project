@@ -1,1 +1,3 @@
-# vue_Basic_MonsterGame_Project
+# Vue: Monster Game
+<br>
+------        Built using Core Features i.e data(),watch,computed and methods;      -----------------
